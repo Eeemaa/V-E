@@ -1,3 +1,14 @@
 .riverdale-font {
-    font-family: 'Bungee Shade', cursive;;
+    font-family: 'Bungee Shade', cursive;
+}
+
+body {
+display: flex;
+flex-direction: column;
+ align-items: center;
+}
+
+#pond {
+    display: flex;
+    flex-direction: row;
 }
