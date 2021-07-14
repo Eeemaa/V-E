@@ -6,11 +6,7 @@ flex-direction: column;
  align-items: center;
 }
 
- #postavy.html body  {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+
 
 .postavy-layout {
     width: 201px; 
@@ -20,3 +16,16 @@ flex-direction: column;
 .nejvetsi-obraz {
     width: 1200px;
 }
+
+.story-layout  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+story.htlm body {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
